@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "secondwebapp",
+    "packageName": "com.home.russ.secondwebapp",
+    "packageFolder": "com/home/russ/secondwebapp",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "useCompass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "cc688e81dc1cdb70db2bafe7c4eba44cd13d69e9"
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "secondwebappApp": {
+        "author" : {
+            "home": {
+                "title": "Authors",
+                "createLabel": "Créer un nouveau Author",
+                "createOrEditLabel": "Créer ou éditer un Author"
+            },
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le Author {{ id }} ?"
+            },
+            "detail": {
+                "title": "Author"
+            },
+            "author_name": "Author_name",
+            "birth_date": "Birth_date",
+            "published": "published"
+        }
+    }
+}
+
